@@ -2,10 +2,10 @@
 
 #### Buttons
 
--active
--disabled
--filled
--line
+-active   
+-disabled   
+-filled   
+-line   
 
 #### Swiper
 
